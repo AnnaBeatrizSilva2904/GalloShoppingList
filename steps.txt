@@ -19,3 +19,5 @@ Configurar o Router:
 
 Executar o projeto:
 npx expo start --localhost --android
+
+npx expo install @react-native-async-storage/async-storage
