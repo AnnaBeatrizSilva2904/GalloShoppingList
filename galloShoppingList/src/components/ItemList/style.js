@@ -18,7 +18,7 @@ export const styles = StyleSheet.create({
         fontSize: 24,
         textDecorationLine: 'none',
     },
-    itemToBought: {
+    itemBought: {
         color: "#fff",
         fontSize: 24,
         textDecorationLine: 'line-through',
